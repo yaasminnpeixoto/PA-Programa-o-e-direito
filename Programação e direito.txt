@@ -20,3 +20,12 @@ Redes Neurais Artificiais são técnicas computacionais que apresentam um modelo
 Tarefa 3:
 - A LGPD, ou lei geral de produção de dados, é a legislação brasileira que regula a coleta, o armazenamento e o uso de daos pessoais. Ela impacta diretamente os data centers no Brasil. Os data centers são responsáveis por armazenar uma grande quantidade de dados pessoais de empresas e indivíduos. A LGPD estabelece requisitos rigorosos para a segurança e a proteção desses dados, o que implica em investimentos em medidas de segurança e políticas de privacidade robustas. Se um data center no Brasil precisa transferir dados pessoais para fora do país, isso deve ser feito de acordo com as regras da LGPD, que exigem a garantia de níveis adequados de proteção de dados no destino. Os data centers devem garantir que as empresas que utilizam seus serviços estejam em conformidade com a LGPD. Isso envolve assegurar que os usuários finais tenham dado seu consentimento para o uso de seus dados pessoais e que estejam cientes de como esses dados serão utilizados. Portanto, a LGPD tem um papel fundamental na regulamentação das práticas de data centers no Brasil, garantindo que a privacidade e a segurança dos dados pessoais sejam respeitadas em conformidade com a lei.
 -Formatos de dados proprietários podem dificultar o acesso e a colaboração, enquanto formatos abertos promovem a acessibilidade, a colaboração e a reutilização de dados, especialmente em contextos públicos. Isso contribui para a transparência, a pesquisa e a inovação baseada em dados, beneficiando a sociedade como um todo. Formatos Proprietários: • .doc (Microsoft Word) • psd (Adobe Photoshop) • .xIsx (Microsoft Excel) • .ai (Adobe Illustrator) Formatos Abertos: • .csv (Comma-Separated Values) • json (JavaScript Object Notation) • Xml (eXtensible Markup Language) • .txt (Texto simples)
+
+--Fontes--
+https://www.hostmidia.com.br/blog/memoria-o-que-e-para-que-serve/
+https://www.tableau.com/pt-br/learn/articles/ai
+https://www.controle.net/faq/o-que-sao-servidores
+https://cloud.google.com/learn/what-is-cloud-computing?hl=pt-br
+https://aws.amazon.com/pt/what-is/cloud-storage/
+https://www.oracle.com/br/database/what-is-database/
+https://www.treinaweb.com.br/blog/o-que-e-banco-de-dados
